@@ -18,6 +18,7 @@ public class firstServiceImpl implements firstService {
         firstData.put("label2", "check2");
         firstData.put("label3", "check3");
         firstData.put("test1", "test1");
+        firstData.put("test2", "test2");
 
         return firstData;
     }
